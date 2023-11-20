@@ -1,8 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
-import Styled from 'styled-components';
 
-const Box = Styled.div`
+const Box = styled.div`
   display: flex;
   align-items: center;
   padding: 15px 25px;
